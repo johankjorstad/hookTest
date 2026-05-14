@@ -1,2 +1,1 @@
-hello world
-it is something
+hello from Linux
